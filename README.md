@@ -31,16 +31,7 @@ I am a Data Scientist and AI researcher focusing on causal reasoning, quantitati
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=poetwrd&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=a6ce39" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetwrd&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&text_color=a6ce39" alt="Top Langs" height="150" />
-</div>
-
----
 
 ## 📫 Connect
 
