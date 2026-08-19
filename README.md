@@ -47,8 +47,7 @@ I am a Data Scientist and AI researcher focusing on causal reasoning, quantitati
 **Mobile App Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 **Cloud, Architecture & Infrastructure**
@@ -67,6 +66,8 @@ I am a Data Scientist and AI researcher focusing on causal reasoning, quantitati
   <a href="https://kartexa.com"><img src="https://img.shields.io/badge/Website-Kartexa-2D3748?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/prasen-sky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/prasen_sky"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://huggingface.co/prasen-sky"><img src="https://img.shields.io/badge/Hugging_Face-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+  <a href="https://dev.to/prasen-sky"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0000-7748-1402"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://www.amazon.com/author/poetwrd"><img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=black" /></a>
 </p>
