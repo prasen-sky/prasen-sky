@@ -52,20 +52,7 @@ I'm always open to discussing new research, AI innovations, or potential collabo
   </a>
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasen-sky&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prasen's GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasen-sky&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasen-sky&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-</p>
-
----
 
 <p align="center">
   <em>“The best way to predict the future is to invent it.” – Alan Kay</em>
