@@ -1,59 +1,53 @@
-# 💫 Hi there, I'm Prasen! (`@prasen-sky`)
+# Prasen
 
-> *"Building Companies that shouldn’t exist!"* 🚀
+**Engineer • Researcher • CEO at [Kartexa](https://kartexa.com)**
 
-I am an **Engineer & Researcher** specializing in Data Science, Machine Learning, and Advanced Statistical Modeling. I am passionate about building intelligent, AI-first solutions that solve complex real-world problems across education, healthcare, research, and enterprise domains. 
-
-Currently driving innovation and building the future at **[Kartexa](https://kartexa.com)**.
+I am a Data Scientist and AI researcher focusing on causal reasoning, quantitative finance, and scalable enterprise architecture. 
 
 ---
 
-## 🔭 What I'm Currently Doing
+## 🔬 Current Work & Research
 
-- 🧠 Developing advanced quantitative algorithms and machine learning models.
-- 🏢 Building AI-powered EdTech and enterprise products at **Kartexa** (including *Aven AI*).
-- 🔬 Publishing research and maintaining a strong academic presence (ORCID: [0009-0000-7748-1402](https://orcid.org/0009-0000-7748-1402)).
-- ☕ Capturing sunrises & sunsets while debugging code. 🌅
+*   **Artificial Intelligence:** Researching and developing the **C-GoT Framework** to enhance Large Language Model reasoning via Dynamic Causal Graph Generation.
+*   **Quantitative Finance:** Architecting backtesting engines and live algorithmic prediction environments for derivative markets.
+*   **EdTech & Infrastructure:** Building automated LLM-based grading systems (Aven AI) and digital ecosystems (Maate Library hub).
+
+## 📚 Patents & Publications
+
+*   **Patents:** Inventor of 5 published patents in tech and algorithmic methodologies.
+*   **Academic Research:** View my published papers and research profile on [ORCID (0009-0000-7748-1402)](https://orcid.org/0009-0000-7748-1402).
+*   **Books:** Author of *Power of Theta* and *Murder of Monk* via Kartexa Publishing. [View my Amazon Author Profile](https://www.amazon.com/author/poetwrd).
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## ⚙️ Technical Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Statistical_Modeling-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Statistical Modeling" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Analytics
 
-I'm always open to discussing new research, AI innovations, or potential collaborations. Feel free to reach out!
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=poetwrd&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=a6ce39" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetwrd&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&text_color=a6ce39" alt="Top Langs" height="150" />
+</div>
+
+---
+
+## 📫 Connect
 
 <p align="left">
-  <a href="https://kartexa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Kartexa-2D3748?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://in.linkedin.com/in/prasen-sky" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/prasen_sky" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://orcid.org/0009-0000-7748-1402" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  <a href="https://linktr.ee/prasen_sky" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
-  </a>
-</p>
-
-
-
-<p align="center">
-  <em>“The best way to predict the future is to invent it.” – Alan Kay</em>
+  <a href="https://kartexa.com"><img src="https://img.shields.io/badge/Website-Kartexa-2D3748?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/prasen-sky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/prasen_sky"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0000-7748-1402"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.amazon.com/author/poetwrd"><img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=black" /></a>
 </p>
